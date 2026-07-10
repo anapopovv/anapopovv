@@ -22,4 +22,6 @@ Aqui compartilho alguns dos projetos que desenvolvo, seja para aprender algo nov
 </tr>
 </table>
 
-
+<p align="center">
+  <img src="./skills.svg" width="420">
+</p>
