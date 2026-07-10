@@ -2,10 +2,6 @@
   <img src="./banner.jpg" width="100%">
 </p>
 
-<p align="center">
-  .
-</p>
-
 <table>
 <tr>
 
