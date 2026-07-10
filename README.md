@@ -11,7 +11,9 @@
 
 <td width="72%">
 
-# 👋 teste
+# Olá! Seja bem-vindo(a) ao meu perfil.
+
+Aqui compartilho alguns dos projetos que desenvolvo, seja para aprender algo novo, testar uma ideia ou simplesmente porque achei interessante criar. Cada repositório representa um pouco da minha evolução e da forma como gosto de programar.
 
 </td>
 
@@ -24,6 +26,4 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="./footer.jpg" width="100%">
-</p>
+
