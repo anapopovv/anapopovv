@@ -16,7 +16,7 @@
 <line x1="400" y1="400" x2="157.5" y2="540.0" stroke="#6b7280" stroke-opacity=".45"/>
 <line x1="400" y1="400" x2="124.3" y2="351.4" stroke="#6b7280" stroke-opacity=".45"/>
 <line x1="400" y1="400" x2="220.0" y2="185.5" stroke="#6b7280" stroke-opacity=".45"/>
-<polygon points="400.0,131.2 565.6,202.7 648.2,356.2 574.6,500.8 474.7,605.2 315.7,631.5 201.2,514.8 195.9,364.0 256.0,228.4" fill="#22c55e" fill-opacity=".18" stroke="#22c55e" stroke-width="3" filter="url(#g)"/>
+<polygon points="400.0,131.2 565.6,202.7 648.2,356.2 574.6,500.8 474.7,605.2 315.7,631.5 201.2,514.8 195.9,364.0 256.0,228.4" fill="#6e56a1" fill-opacity=".18" stroke="#6e56a1" stroke-width="3" filter="url(#g)"/>
 <text x="400.0" y="78.0" fill="#d1d5db" font-size="20" font-family="Segoe UI,Arial" text-anchor="middle">HTML</text>
 <text x="607.0" y="153.3" fill="#d1d5db" font-size="20" font-family="Segoe UI,Arial" text-anchor="start">CSS</text>
 <text x="717.1" y="344.1" fill="#d1d5db" font-size="20" font-family="Segoe UI,Arial" text-anchor="start">JS</text>
