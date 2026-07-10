@@ -25,5 +25,5 @@
 </table>
 
 <p align="center">
-  <img src="./footer.jpg" width="100%">
+  <img src="./footer.jpg" height="25px" width="100%">
 </p>
