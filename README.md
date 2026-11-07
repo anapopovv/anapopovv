@@ -11,7 +11,7 @@ Aqui compartilho alguns dos projetos que desenvolvo, seja para aprender algo nov
 
 <td align="center">
 
-<img src="./neonglitch.jpg" width="180">
+<img src="./map.png" width="180">
 
 </td>
 
