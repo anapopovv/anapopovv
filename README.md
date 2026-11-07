@@ -19,5 +19,5 @@ Aqui compartilho alguns dos projetos que desenvolvo, seja para aprender algo nov
 </table>
 
 <p align="center">
-  <img src="./skills.svg" width="420">
+  <img src="./habilidades.svg" width="420">
 </p>
